@@ -1,3 +1,3 @@
 
-![counter](https://[https://github.com/kvh8899/].m.pipedream.net)
+![counter](https://[https://img.shields.io/static/v1?label=Profile-Views&message=${counter}&color=green].m.pipedream.net)
 
