@@ -1,3 +1,3 @@
 
-![counter](https://img.shields.io/static/v1?label=Profile-Views&message=${counter}&color=green)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kvh8899)
 
