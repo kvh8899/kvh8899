@@ -4,7 +4,7 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/kylevhuang461/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
+<a href="https://angel.co/u/kyle-huang-7"><i class="fab fa-angellist"></i></a>
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
